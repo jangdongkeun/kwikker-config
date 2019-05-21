@@ -1,4 +1,4 @@
-emv: DEV
+env: DEV
 service: social
 server.port: 8081
 
